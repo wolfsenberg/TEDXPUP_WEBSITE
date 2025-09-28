@@ -1,2 +1,2 @@
 # TEDXPUP_WEBSITE
-Project management and development for the official TEDxPUP website
+Project management for the TEDxPUP website
