@@ -1,2 +1,2 @@
 # TEDXPUP_WEBSITE
-Project management for the TEDxPUP website
+Repository for the TEDxPUP website
