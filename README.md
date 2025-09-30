@@ -1,2 +1,2 @@
 # TEDXPUP_WEBSITE
-Repository for the TEDxPUP website
+Mock Repository for the TEDxPUP website
